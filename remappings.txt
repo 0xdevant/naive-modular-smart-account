@@ -1,0 +1,7 @@
+@openzeppelin/=lib/openzeppelin-contracts/
+@eth-infinitism/account-abstraction/=lib/account-abstraction/contracts/
+@webauthn-sol/=lib/webauthn-sol/src/
+@webauthn-sol-test/=lib/webauthn-sol/test/
+@FreshCryptoLib/=lib/FreshCryptoLib/solidity/src/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
