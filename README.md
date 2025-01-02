@@ -1,4 +1,4 @@
-# Naive modular ERC-4337 compatible smart account design
+# Naive modular smart account design
 
 ## Getting Started
 
